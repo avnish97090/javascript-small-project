@@ -1,0 +1,14 @@
+after before , creates pseudo element first child create karta hai ,
+split.js walaa dekh lo 
+
+centering a div dekh lo 
+
+
+
+.dataset property 
+
+In JavaScript, .dataset is a property that allows you to access custom data attributes on HTML elements. These custom data attributes are prefixed with data- in the HTML code and can be used to store information that you want to associate with the element.
+<div id="myElement" data-rating="5"></div>
+var element = document.getElementById('myElement');
+var rating = element.dataset.rating;
+console.log(rating); // Output: 5
