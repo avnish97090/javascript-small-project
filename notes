@@ -12,3 +12,9 @@ In JavaScript, .dataset is a property that allows you to access custom data attr
 var element = document.getElementById('myElement');
 var rating = element.dataset.rating;
 console.log(rating); // Output: 5
+
+
+
+margin block means top and bottom se margin diye 
+
+margin inline means left and right se margin diye 
